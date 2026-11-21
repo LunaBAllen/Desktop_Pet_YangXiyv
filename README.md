@@ -15,8 +15,8 @@
 
 桌宠实现对话功能需要接入一个deepseek api。
 
-配布件中不包含api key，还请自行于https://platform.deepseek.com/获取。
-获取教程请见https://api-docs.deepseek.com/zh-cn/。
+配布件中不包含api key，还请自行于https://platform.deepseek.com获取。
+获取教程请见https://api-docs.deepseek.com/zh-cn。
 
 注意，api key属于敏感信息，获取之后请不要泄露至网络或分享给他人。
 
